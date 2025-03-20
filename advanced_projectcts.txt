@@ -1,0 +1,60 @@
+WEB:
+Darkly
+H42N42
+
+MOBILE;
+Swifty_Companion
+Swifty_proteins
+
+OOP:
+Darkly
+H42N42
+
+IMP PROG:
+Darkly
+Snow Crash
+Rainfall
+Override
+
+FUNC PROG:
+ft_turing
+H42N42
+
+SECURITY:
+Darkly
+Snow Crash
+Rainfall
+Override
+
+UNIX:
+nm
+malloc
+ft_linux
+little_penguin
+
+SYS ADMIN:
+cloud-1
+inception of things
+ft_ping
+ft_traceroute
+ft_nmap
+
+Total:
+Darkly
+H42N42
+Swifty_proteins
+Swifty_companion
+Snow Crash
+rainfall
+override
+ft_turing
+nm
+malloc
+ft_linux
+little_penguin
+cloud1
+inception of things
+ft_ping
+ft_tracroute
+ft_nmap
+redy set boole
